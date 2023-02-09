@@ -10,7 +10,7 @@
 }
 
 html{
-    font-size: 5rem;
+    font-size: 10px;
 }
 
 body{
@@ -23,7 +23,7 @@ body{
 
 header{
     background-color:rgba(59, 56, 56, 0.7);
-    height: 0.8rem;
+    height: 8rem;
     color: white;
     display: flex;
     justify-content: space-between;
@@ -33,7 +33,7 @@ header{
 }
 
     header h1{
-        font-size: 0.4rem;
+        font-size: 4rem;
 }
 
 
@@ -41,12 +41,12 @@ header nav{
     display: flex;
     justify-content: space-between;
     width: 35%;
-    font-size: 0.2rem;
+    font-size: 2rem;
 }
 
 header nav a{
     text-decoration: none;
-    display: flex;
-    justify-content: center;
+    /* display: flex;
+    justify-content: center; */
 }
 
